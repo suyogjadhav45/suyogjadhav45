@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suyog Jadhav.<br>A passionate and goal driven Computer Engineering student pursuing Bachelors of Engineering having keen interest in Problem Solving and Web Development.</h2>
+<h2 align="left">Hi 👋! Suyog here!<br>A passionate and goal driven Computer Engineering student pursuing Bachelors of Engineering having keen interest in Problem Solving and Web Development.</h2>
 
 ###
 
